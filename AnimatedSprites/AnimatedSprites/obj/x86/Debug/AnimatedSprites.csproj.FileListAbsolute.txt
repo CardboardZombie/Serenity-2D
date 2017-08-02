@@ -1,0 +1,77 @@
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CapnSprite.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemySprite.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Collectables\Health.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\eTSprite.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainWithShield.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemyWeapon.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\RedSkull.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainJump.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Menu.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\vMenu.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Floor.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Trees.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Mountain.xnb
+C:\Users\Tadhg\Documents\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Gradient.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CapnSprite.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemySprite.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Collectables\Health.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\eTSprite.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainWithShield.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\EnemyWeapon.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\RedSkull.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Characters\CaptainJump.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Menu.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\vMenu.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Floor.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Gradient.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Trees.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Mountain.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space5.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space4.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space2.xnb
+C:\Users\Tadhg\Documents\Visual Studio 2010\Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space6.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Menu.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\vMenu.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Floor.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Gradient.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Trees.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\Mountain.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space5.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space4.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space2.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Background\space6.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Fonts\Score.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Sprites\Serenity.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Sprites\meteorEnemy.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Sprites\ReaverSprite.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Sprites\SpeedSprite.xnb
+C:\Users\Tadhg\Documents\GamesDev\C# Projects\AnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\Sprites\RocketSprite-3.xnb
